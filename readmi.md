@@ -24,3 +24,7 @@ Um projeto simples em Python para gerar senhas aleatórias. O usuário pode esco
 
 ```python
 python geration.py
+
+
+Contribuição 🤝
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR.
