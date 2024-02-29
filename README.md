@@ -1,4 +1,5 @@
 # Password Generator 🔐💡
+![Screenshot_9](https://github.com/davifernandodias/password-generator/assets/134711641/a73a4152-29a9-4173-9692-a2e6e2810698)
 
 A simple Python project to generate random passwords. The user can choose the number of characters and symbols.
 
