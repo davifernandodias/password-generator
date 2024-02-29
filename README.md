@@ -1,30 +1,30 @@
-# Gerador de Senhas 🔐💡
+# Password Generator 🔐💡
 
-Um projeto simples em Python para gerar senhas aleatórias. O usuário pode escolher a quantidade de caracteres e símbolos.
+A simple Python project to generate random passwords. The user can choose the number of characters and symbols.
 
-## Como Usar 🚀
+## How to Use 🚀
 
-1. Clone o repositório.
-2. Abra o terminal e navegue até o diretório do projeto.
-3. Execute o script `geration.py` com Python 3.
-4. Siga as instruções para gerar sua senha personalizada.
+1. Clone the repository.
+2. Open the terminal and navigate to the project directory.
+3. Run the `generation.py` script with Python 3.
+4. Follow the instructions to generate your personalized password.
 
-## Recursos 🛠️
+## Features 🛠️
 
-- Geração de senhas com caracteres e símbolos aleatórios.
-- Escolha da quantidade de caracteres e símbolos desejada.
+- Generation of passwords with random characters and symbols.
+- Choose the desired number of characters and symbols.
 
-## Bibliotecas Utilizadas 📚
+## Libraries Used 📚
 
 - `random`
 - `strings`
 - `os.urandom`
 
-## Exemplo de Uso 💻
+## Usage Example 💻
 
 ```python
-python geration.py
+python generation.py
 
 
-Contribuição 🤝
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR.
+Contribution 🤝
+Contributions are welcome! Feel free to open a PR.
